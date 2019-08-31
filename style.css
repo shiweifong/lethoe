@@ -1107,6 +1107,11 @@ body.stretched #header.full-header .container {
 
 #primary-menu { float: right; }
 
+#primary-menu.dark ul ul{
+	border-top-color: #2f694b !important;
+}
+
+
 #primary-menu ul.mobile-primary-menu { display: none; }
 
 #header.full-header #primary-menu > ul {

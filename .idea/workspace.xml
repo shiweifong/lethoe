@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ea816c8-8d2c-4998-8c81-0ef85825d1b8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/engineered-wood.html" afterPath="$PROJECT_DIR$/engineered-wood.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/veneers.html" afterPath="$PROJECT_DIR$/veneers.html" />
     </list>
@@ -41,8 +41,8 @@
       <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="59" column="81" lean-forward="true" selection-start-line="59" selection-start-column="81" selection-end-line="59" selection-end-column="81" />
+            <state relative-caret-position="272">
+              <caret line="107" column="57" lean-forward="false" selection-start-line="107" selection-start-column="53" selection-end-line="107" selection-end-column="57" />
               <folding>
                 <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
@@ -50,26 +50,46 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="12102" column="26" lean-forward="false" selection-start-line="12102" selection-start-column="26" selection-end-line="12102" selection-end-column="26" />
+            <state relative-caret-position="344">
+              <caret line="1110" column="41" lean-forward="false" selection-start-line="1110" selection-start-column="41" selection-end-line="1110" selection-end-column="41" />
               <folding>
-                <element signature="e#151532#151703#2" expanded="true" />
+                <element signature="e#151601#151772#2" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="veneers.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="veneers.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/veneers.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="73" column="37" lean-forward="false" selection-start-line="73" selection-start-column="37" selection-end-line="73" selection-end-column="37" />
+            <state relative-caret-position="220">
+              <caret line="136" column="34" lean-forward="true" selection-start-line="136" selection-start-column="34" selection-end-line="136" selection-end-column="34" />
               <folding>
-                <marker date="1567224879000" expanded="false" signature="20684:21325" ph="..." />
-                <marker date="1567224879000" expanded="false" signature="20868:20874" ph="©" />
+                <element signature="e#30477#30483#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="engineered-wood.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/engineered-wood.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="562">
+              <caret line="220" column="160" lean-forward="true" selection-start-line="220" selection-start-column="160" selection-end-line="221" selection-end-column="155" />
+              <folding>
+                <element signature="n#style#0;n#h4#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#div#1;n#article#0;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#div#1;n#article#1;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#div#1;n#article#2;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#div#1;n#article#3;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#div#1;n#article#4;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#div#1;n#article#5;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#div#1;n#article#6;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#em#0;n#div#0;n#div#1;n#article#6;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#div#1;n#article#7;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -99,14 +119,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>favir</find>
-      <find>footer</find>
-      <find>Show All</find>
-      <find>Bird Eye Maple</find>
-      <find>Birch</find>
-      <find>Figured Maple PC</find>
-      <find>Figured Ash QC</find>
-      <find>927</find>
       <find>Sandblast Wenge QC</find>
       <find>Wenge QC</find>
       <find>Figured Maple QCs</find>
@@ -126,10 +138,23 @@
       <find>333</find>
       <find>#page-title span</find>
       <find>#copyrights</find>
+      <find>.mega-menu-content</find>
+      <find>.dark</find>
+      <find>.dark #primary-menu:not(.not-dark) ul ul, .dark #primary-menu:not(.not-dark) ul li .mega-menu-content, #primary-menu.dark ul ul, #primary-menu.dark ul li .mega-menu-content</find>
+      <find>shan</find>
+      <find>#primary-menu.dark ul ul</find>
+      <find>nav</find>
+      <find>primary-menu</find>
+      <find>Albino Bird Eye Maple</find>
+      <find>(2)</find>
+      <find>&lt;/h3&gt;</find>
+      <find>&lt;/h4&gt;</find>
     </findStrings>
     <replaceStrings>
       <replace>#s</replace>
       <replace>#2f694b</replace>
+      <replace>june</replace>
+      <replace>&lt;/h4&gt;</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -139,11 +164,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/engineered-wood.html" />
-        <option value="$PROJECT_DIR$/veneers.html" />
+        <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/veneers.html" />
       </list>
     </option>
   </component>
@@ -241,12 +266,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567193957114</updated>
-      <workItem from="1567193958427" duration="10322000" />
+      <workItem from="1567193958427" duration="11510000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10322000" />
+    <option name="totallyTimeSpent" value="11510000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="38" y="23" width="1642" height="1027" extended-state="6" />
@@ -321,20 +346,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact.html">
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/common.rnc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="59" column="81" lean-forward="true" selection-start-line="59" selection-start-column="81" selection-end-line="59" selection-end-column="81" />
-          <folding>
-            <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+        <state relative-caret-position="738">
+          <caret line="153" column="9" lean-forward="true" selection-start-line="124" selection-start-column="18" selection-end-line="153" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/engineered-wood.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="177" column="68" lean-forward="true" selection-start-line="177" selection-start-column="68" selection-end-line="177" selection-end-column="68" />
+        <state relative-caret-position="562">
+          <caret line="220" column="160" lean-forward="true" selection-start-line="220" selection-start-column="160" selection-end-line="221" selection-end-column="155" />
           <folding>
             <element signature="n#style#0;n#h4#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#div#1;n#article#0;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h4#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#div#1;n#article#1;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -350,31 +373,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/common.rnc">
+    <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="738">
-          <caret line="153" column="9" lean-forward="true" selection-start-line="124" selection-start-column="18" selection-end-line="153" selection-end-column="9" />
-          <folding />
+        <state relative-caret-position="344">
+          <caret line="1110" column="41" lean-forward="false" selection-start-line="1110" selection-start-column="41" selection-end-line="1110" selection-end-column="41" />
+          <folding>
+            <element signature="e#151601#151772#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="107" column="57" lean-forward="false" selection-start-line="107" selection-start-column="53" selection-end-line="107" selection-end-column="57" />
+          <folding>
+            <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/veneers.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="73" column="37" lean-forward="false" selection-start-line="73" selection-start-column="37" selection-end-line="73" selection-end-column="37" />
+        <state relative-caret-position="220">
+          <caret line="136" column="34" lean-forward="true" selection-start-line="136" selection-start-column="34" selection-end-line="136" selection-end-column="34" />
           <folding>
-            <marker date="1567224879000" expanded="false" signature="20684:21325" ph="..." />
-            <marker date="1567224879000" expanded="false" signature="20868:20874" ph="©" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="12102" column="26" lean-forward="false" selection-start-line="12102" selection-start-column="26" selection-end-line="12102" selection-end-column="26" />
-          <folding>
-            <element signature="e#151532#151703#2" expanded="true" />
+            <element signature="e#30477#30483#0" expanded="true" />
           </folding>
         </state>
       </provider>
