@@ -1018,7 +1018,10 @@ body.stretched #header.full-header .container {
 	padding: 0 30px;
 }
 
-#header.transparent-header.full-header #header-wrap { border-bottom: 1px solid rgba(0,0,0,0.1); }
+#header.transparent-header.full-header #header-wrap { 
+	border-bottom: 1px solid rgba(0,0,0,0.1);
+	border-bottom: none;
+}
 
 #slider + #header.transparent-header.full-header #header-wrap {
 	border-top: 1px solid rgba(0,0,0,0.1);
@@ -1116,9 +1119,6 @@ body.stretched #header.full-header .container {
 
 #header.full-header #primary-menu > ul {
 	float: left;
-	padding-right: 15px;
-	margin-right: 15px;
-	border-right: 1px solid #EEE;
 }
 
 #header.transparent-header.full-header #primary-menu > ul { border-right-color: rgba(0,0,0,0.1); }
