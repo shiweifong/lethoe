@@ -1049,7 +1049,10 @@ body.stretched #header.full-header .container {
 	border-right: 1px solid #EEE;
 }
 
-#header.transparent-header.full-header #logo { border-right-color: rgba(0,0,0,0.1); }
+#header.transparent-header.full-header #logo { 
+	border-right-color: rgba(0,0,0,0.1);
+	border-right:0px;
+}
 
 #logo a {
 	display: block;
